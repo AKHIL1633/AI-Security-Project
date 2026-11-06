@@ -1,5 +1,7 @@
 # Autonomous Research Agent
 
+> Built by **P Akhil** as a class project, following the reference implementation by [data-guru0](https://github.com/data-guru0/AI-Security-Project) (course material remains theirs).
+
 Give it a topic → it researches, writes a full report, safety-checks it, caches it, and remembers it. Built on AWS with a real multi-agent pipeline, red teaming, and LLM evaluation on every request.
 
 ---
